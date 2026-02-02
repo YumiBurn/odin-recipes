@@ -1,0 +1,1 @@
+This is a basic website which demenstrates what ive learned through the odin project.
